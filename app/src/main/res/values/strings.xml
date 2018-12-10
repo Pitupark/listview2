@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">listview2</string>
+    <string-array name="nombres">
+        <item>Batman: The Dark Knight Returns</item>
+        <item>Amazing Spider-Man</item>
+        <item>Civil War</item>
+        <item>Guantelete del Infinito</item>
+        <item>Los 4 Fantasticos</item>
+        <item>Old Man Logan</item>
+        <item>Secret Wars</item>
+        <item>Watchmen</item>
+        <item>Born Again</item>
+        <item>X-Men</item>
+    </string-array>
+    <string-array name="annos">
+        <item>1986</item>
+        <item>1963</item>
+        <item>2006</item>
+        <item>1991</item>
+        <item>1961</item>
+        <item>2008</item>
+        <item>1984</item>
+        <item>1986</item>
+        <item>1986</item>
+        <item>1963</item>
+    </string-array>
+    <string-array name="editorial">
+        <item>DC Comics</item>
+        <item>Marvel Comics</item>
+        <item>Marvel Comics</item>
+        <item>Marvel Comics</item>
+        <item>Marvel Comics</item>
+        <item>Marvel Comics</item>
+        <item>Marvel Comics</item>
+        <item>DC Comics</item>
+        <item>Marvel Comics</item>
+        <item>Marvel Comics</item>
+    </string-array>
+    <string-array name="guion">
+        <item>Frank Miller</item>
+        <item>Stan Lee</item>
+        <item>Mark Millar</item>
+        <item>Jim Starlin</item>
+        <item>Stan Lee</item>
+        <item>Mark Millar</item>
+        <item>Jim Shooter</item>
+        <item>Alan Moore</item>
+        <item>Frank Miller</item>
+        <item>Stan Lee</item>
+    </string-array>
+    <string-array name="dibujo">
+        <item>Frank Miller</item>
+        <item>Steve Ditko</item>
+        <item>Steve Mcniven</item>
+        <item>George Pérez</item>
+        <item>Jack Kirby</item>
+        <item>Steve Mcniven</item>
+        <item>Mike Zeck, Bob Layton</item>
+        <item>Dave Gibbons</item>
+        <item>David Mazzucchelli</item>
+        <item>Jack Kirby</item>
+    </string-array>
+</resources>
